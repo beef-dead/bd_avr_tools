@@ -1,4 +1,6 @@
-# bd_avr_tools
+# Arduino : Non blocking sleep + Debouncer button
+
+## bd_avr_tools
 
 The main motivation of this code is to manage "parasitic" (Wifi, thermostat, inductive device, ...) received by non insulated digital input connected to an Arduino (Uno, Pro mini, Nano, ...) physical push button.
 
