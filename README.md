@@ -1,4 +1,4 @@
-# Arduino : Non blocking sleep + Debouncer button
+# Advanced Debouncer Button
 
 ## bd_avr_tools
 
